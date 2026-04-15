@@ -1,12 +1,12 @@
 # Github **-Baukasten Weltenbau-System**--README--
 
-Here’s a **fully formatted GitHub README template** that you can **copy and paste directly** into your `README.md` file:
+Here’s a **fully formatted GitHub README ** that you can **copy and paste directly** in **Fictionlab**
 
-# 📌 Project Title
+# 📌 *Baukasten Welten-System*
 
-> A short description of your project, what it does, and who it’s for.
+> Ein Baukasten Welten-System erlaubt, jede Welt, jedes Universum in **Fictionlab** Erscheinen zu lassen. Ein muss für jeden Rollenspiel Fan mit Liebe für Details!
 
-## 📖 Table of Contents
+## 📖 Inhaltsverzeichnis 
 - [🚀 Features](#-features)
 - [🛠 Installation](#-installation)
 - [📌 Usage](#-usage)
