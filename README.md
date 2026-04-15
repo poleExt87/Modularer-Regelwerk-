@@ -1,5 +1,3 @@
-# Modularer-Regelwerk-
-Das Modulare Weltebau System für "Fictionlab"
 # Github-README-Template
 
 Here’s a **fully formatted GitHub README template** that you can **copy and paste directly** into your `README.md` file:
